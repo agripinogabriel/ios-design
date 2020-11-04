@@ -14,7 +14,7 @@ Images-credit: <a href="https://unsplash.com/">Unsplash.com</a>
 
 Design-credit: <a href="https://dribbble.com/shots/9324353-Add-Pizza-Interaction-Free-UI-kit">Ronak Chhatwal</a>
 
-<img src="https://github.com/agripinogabriel/ios-design/blob/main/Add%20Pizza%20Interaction/Screenshots/capture.gif">
+<img src="https://github.com/agripinogabriel/ios-design/blob/main/Add%20Pizza%20Interaction/screenshots/capture.gif">
 
 
 ## Having trouble ?
